@@ -3,3 +3,4 @@ __pycache__/
 #Исключим сам файл .gitignore:
 .gitignore
 /.git/
+/.idea/
